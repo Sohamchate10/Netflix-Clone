@@ -90,7 +90,7 @@ This application relies on external APIs:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git  <-- Replace with your repo URL
+    git clone https://github.com/Sohamchate10/Netflix-Clone.git  <-- Replace with your repo URL
     cd your-repo-name
     ```
 2.  **Open the project:** Open the `.xcodeproj` file in Xcode.
