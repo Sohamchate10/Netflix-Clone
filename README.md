@@ -139,17 +139,3 @@ class APICaller {
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details (if applicable).
-
-## Acknowledgements
-
-*   Based on the iOS Development Course by **Amar** available on YouTube: [iOS Development Course - Use Swift 5 and UIKit to Build a Netflix Clone](https://www.youtube.com/watch/KCgYDCKqato)
-```
-
-**To Use This README:**
-
-1.  **Save:** Copy the content above and save it as `README.md` in the root directory of your project.
-2.  **Customize:**
-    *   Replace the placeholder screenshot links with actual URLs to your screenshots/GIFs.
-    *   Update the repository URL in the "Clone the repository" command.
-    *   Choose and potentially add a `LICENSE.md` file if you haven't already.
-3.  **Commit:** Add and commit the `README.md` file to your Git repository.
